@@ -1,0 +1,18 @@
+.navigation {
+    border-bottom: 1px solid;
+    height: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+
+.user-icon {
+    border-radius: 50%;
+    height: 28px;
+    width: 28px;
+    position: absolute;
+    right: 2px;
+    margin-top: 1px;
+}
